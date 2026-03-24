@@ -21,3 +21,5 @@ Stats - Invite and message tracking
 Games - RPS, 8ball, coinflip
 
 Slash commands - /help and /ping
+
+prefix arre / and $ and -
